@@ -15,6 +15,7 @@ export function lory (slider, opts) {
     /**
      * slider DOM elements
      */
+     
     let frame;
     let slideContainer;
     let prevCtrl;
